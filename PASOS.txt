@@ -1,0 +1,3 @@
+npm i kakfajs
+nest generate module kafka
+crear producer.service, implementant oninit y onshutdown
